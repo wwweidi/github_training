@@ -1,0 +1,2 @@
+- Location: Konomi
+- Type: Japanese Restaurant
